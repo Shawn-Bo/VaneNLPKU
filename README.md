@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nature Language Processing 
 - 🌱 I’m currently learning in Peking, China.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 fanvane.mail@gmail.com
 
 <!---
 VaneNLPKU/VaneNLPKU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
